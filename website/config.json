@@ -1,0 +1,51 @@
+{
+    "texts": [
+        {
+            "content": "左上角文本 (align: left)",
+            "x": 0.02,
+            "y": 0.02,
+            "size": 0.025,
+            "color": "#FFFFFF",
+            "align": "left"
+        },
+        {
+            "content": "居中显示 (align: center)",
+            "x": 0.5,
+            "y": 0.5,
+            "size": 0.04,
+            "color": "#FFD700",
+            "bold": true,
+            "align": "center"
+        },
+        {
+            "content": "右下角 (align: left)",
+            "x": 0.98,
+            "y": 0.95,
+            "size": 0.02,
+            "color": "#AAAAAA",
+            "align": "left"
+        }
+    ],
+    "countdowns": [
+        {
+            "target_time": "2025-12-31 23:59:59",
+            "prefix": "新年: ",
+            "x": 0.5,
+            "y": 0.15,
+            "size": 0.035,
+            "color": "#FF6B6B",
+            "bold": true,
+            "align": "center",
+            "format": "{days}天{hours:02d}:{minutes:02d}:{seconds:02d}"
+        },
+        {
+            "target_time": "2025-06-07 09:00:00",
+            "prefix": "高考: ",
+            "x": 0.02,
+            "y": 0.90,
+            "size": 0.025,
+            "color": "#4ECDC4",
+            "align": "left"
+        }
+    ]
+}
