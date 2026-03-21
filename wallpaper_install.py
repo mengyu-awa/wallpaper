@@ -1,0 +1,1 @@
+import wallpaper_install_data
