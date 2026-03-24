@@ -30,12 +30,12 @@
         {
             "target_time": "2026-03-27 18:10:00",
             "prefix": "放学: ",
-            "x": 0.5,
-            "y": 0.15,
+            "x": 0.78,
+            "y": 0,
             "size": 0.035,
             "color": "#FF6B6B",
             "bold": true,
-            "align": "center",
+            "align": "left",
             "format": "{days}天{hours:02d}:{minutes:02d}:{seconds:02d}"
         }
     ]
