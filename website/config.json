@@ -29,14 +29,14 @@
     "countdowns": [
         {
             "target_time": "2026-03-27 18:10:00",
-            "prefix": "放学: ",
-            "x": 0.78,
-            "y": 0,
+            "prefix": "放学\n ",
+            "x": 0.5,
+            "y": 0.5,
             "size": 0.035,
-            "color": "#FF6B6B",
+            "color": "#FFFFFF",
             "bold": true,
-            "align": "left",
-            "format": "{days}天{hours:02d}:{minutes:02d}:{seconds:02d}"
+            "align": "center",
+            "format": "{days}天{hours:02d}时{minutes:02d}分{seconds:02d}秒"
         }
     ]
 }
